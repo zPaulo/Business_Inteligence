@@ -1,0 +1,6 @@
+https://app.powerbi.com/view?r=eyJrIjoiMmQxNDg3YTItNjcwMy00MjhiLWE2ZjItMjQ0N2IwZGY2YjA1IiwidCI6ImU1NDgwZDk1LWY3ZDEtNDRlNi04MDQ2LWQ4NjQwMjkxOTJkYiJ9&pageName=ReportSection
+
+#Informações sobre o Dashboard
+Criei esse dashboard com o intuito de facilitar a forma como os coordenadores dos cursos veem os desempenhos individuais e coletivos dos respectivos alunos, os cálculos e formulas foram inteiramente feitos dentro do próprio Power BI utilizando a linguagem DAX.
+
+Em Relação aos Cálculos: utilizei cálculos bem simples como média, count, porém fixei a média geral da turma para que pudessem comparar sua média com a média geral do curso.
