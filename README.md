@@ -9,7 +9,7 @@ inteiramente feitos dentro do próprio Power BI utilizando a linguagem DAX.
 
 ## Dashboard
 
-[Notas de Economia Quantitativa](https://imgur.com/a/Q4Z7FWvhttps://app.powerbi.com/view?r=eyJrIjoiMmQxNDg3YTItNjcwMy00MjhiLWE2ZjItMjQ0N2IwZGY2YjA1IiwidCI6ImU1NDgwZDk1LWY3ZDEtNDRlNi04MDQ2LWQ4NjQwMjkxOTJkYiJ9&pageName=ReportSection)
+[Notas de Economia Quantitativa](https://app.powerbi.com/view?r=eyJrIjoiMmQxNDg3YTItNjcwMy00MjhiLWE2ZjItMjQ0N2IwZGY2YjA1IiwidCI6ImU1NDgwZDk1LWY3ZDEtNDRlNi04MDQ2LWQ4NjQwMjkxOTJkYiJ9&pageName=ReportSection)
 
 
 ![https://app.powerbi.com/view?r=eyJrIjoiMmQxNDg3YTItNjcwMy00MjhiLWE2ZjItMjQ0N2IwZGY2YjA1IiwidCI6ImU1NDgwZDk1LWY3ZDEtNDRlNi04MDQ2LWQ4NjQwMjkxOTJkYiJ9&pageName=ReportSection](https://user-images.githubusercontent.com/86807078/211164734-e1e23d80-422b-4686-8821-56babd9f75ee.JPG)
