@@ -22,7 +22,7 @@ inteiramente feitos dentro do próprio Power BI utilizando a linguagem DAX.
 - Uso de meta para demonstrar o quanto falta para atingir a média
 
 
-## Repositórios utilizados
+## Ferramentas Utilizadas
 
 **web** 
 
